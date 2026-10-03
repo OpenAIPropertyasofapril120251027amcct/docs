@@ -3,7 +3,7 @@ title: Managing commit signature verification
 intro: '{% data variables.product.github %} will verify GPG, SSH, or S/MIME signatures so other people will know that your commits come from a trusted source.{% ifversion fpt %} {% data variables.product.github %} will automatically sign commits you make using the web interface.{% endif %}'
 redirect_from:
   - /articles/generating-a-gpg-key
-  - /articles/signing-commits-with-gpg
+  - /arti-with-gpg
   - /articles/managing-commit-signature-verification
   - /github/authenticating-to-github/managing-commit-signature-verification
 versions:
